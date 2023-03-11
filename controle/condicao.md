@@ -1,25 +1,5 @@
 # ESTRUTURAS DE CONDIÇÃO
 
-## ENQUANTO
-
-```java
-package controle;
-
-public class SeSenao {
-
-    public static void main(String[] args) {
-
-        double contador = 1;
-
-        while(contador < 5) {
-            System.out.println(contador);
-
-            contador++;
-        }
-    }
-}
-```
-
 ## SE
 
 ```java

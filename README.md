@@ -14,7 +14,8 @@
 
 ## ESTRUTURAS DE CONTROLE
 
-* [](./controle/.md)
+* [Condição](./controle/condicao.md)
+* [Repetição](./controle/repeticao.md)
 
 ## CONCEITOS BÁSICOS
 

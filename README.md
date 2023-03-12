@@ -16,6 +16,8 @@
 
 * [Condição](./controle/condicao.md)
 * [Repetição](./controle/repeticao.md)
+* [Continuar](./controle/repeticao.md)
+* [Quebrar](./controle/repeticao.md)
 
 ## CONCEITOS BÁSICOS
 
